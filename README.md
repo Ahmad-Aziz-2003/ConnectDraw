@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # ConnectDraw
 
 ConnectDraw is a draw.io type replica built with React.js and Vite. It allows users to create diagrams with four basic shapes: diamond, rectangle, circle, and parallelogram. This project utilizes the `react-dnd` library for drag-and-drop functionality.
