@@ -18,6 +18,9 @@ ConnectDraw is a draw.io type replica built with React.js and Vite. It allows us
  - Connect shapes by clicking and dragging from one shape to another.
  - Use the "Clear Canvas" button to clear the canvas.
  - Use the "Save Canvas" button to save the current state to local storage. The saved state will persist even after refreshing the page.
+   
+
+https://github.com/Ahmad-Aziz-2003/ConnectDraw/assets/107469521/ffbd5982-6076-475f-a1dd-e00c717d5286
 
  ## Libraries Used
  
